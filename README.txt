@@ -1,10 +1,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%copy right @ Longhuan Zhu 2022%%%%%%%%%%%%%%%%%%%%%%
 %---------------------------version 2022.04--------------------------------
 %
-% regularWaveDecayByVegetation/
+% ./
 % 
-% The regularWaveDecayByVegetation is a package of MATLAB transcripts for
-% the analytical models for wave attenuation by submerged and suspended
+% This is a package of MATLAB transcripts for the analytical models for
+% regular/monochromatic wave attenuation by submerged and suspended
 % flexible and rigid vegetation and kelp (Zhu and Zou, 2017; Zhu et al.,
 % 2022), including two major functions,
 % regularWaveDecayFlexibleVegetation.m and
