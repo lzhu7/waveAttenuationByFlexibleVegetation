@@ -40,10 +40,10 @@ function [vege, canopy, hydroCoeff]....
 %
 % [1] Dalrymple, R.A., Kirby, J.T., & Hwang, P.A. (1984). Wave diffraction
 % due to areas of energy dissipation. J. Waterw. Port Coast. Ocean Eng. 110
-% (1), 67–79. https://doi.org/ 10.1061/(ASCE)0733-950X(1984)110:1(67).
+% (1), 67â€“79. https://doi.org/ 10.1061/(ASCE)0733-950X(1984)110:1(67).
 %
 % [2] Kobayashi, N., Raichle, A.W., & Asano, T. (1993). Wave attenuation by
-% vegetation. J. Waterw. Port Coast. Ocean Eng. 119 (1), 30–48.
+% vegetation. J. Waterw. Port Coast. Ocean Eng. 119 (1), 30â€“48.
 % https://doi.org/10.1061/(ASCE) 0733-950X(1993)119:1(30).
 %
 % [3] Ozeren, Y., Wren, D.G., & Wu, W. (2014). Experimental investigation
