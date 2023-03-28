@@ -2,7 +2,7 @@ function [Cm] = CmLN2016(Um, Tw, b)
 % Added mass coefficient of rectangular plates under waves calculated from
 % the formulas in Luhar and Nepf (2016) and Luhar (2012,thesis) fitted from
 % the experimental data from Keulegan and Carpenter (1958) and Sarpkaya and
-% O’Keefe (1996).
+% Oâ€™Keefe (1996).
 
 %% input variables
 % Um: [m/s] amplitude of relative velocity;
