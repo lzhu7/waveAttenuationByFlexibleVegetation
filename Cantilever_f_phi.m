@@ -2,6 +2,7 @@ function [mu,phi]=Cantilever_f_phi(n,s)
 % find the first n \mu l of cantilever beam, natural frequency
 % n: number of mode
 % s: distance along the length
+% output
 % mu
 % phi
 
