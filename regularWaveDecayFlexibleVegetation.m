@@ -29,11 +29,11 @@ function [vege, canopy, hydroCoeff]...
 %
 % [1] Lei, J., & Nepf, H. (2019). Wave damping by flexible vegetation:
 % connecting individual vege dynamics to the meadow scale. Coast. Eng.
-% 147, 138–148. https://doi.org/10.1016/j.coastaleng.2019.01.008.
+% 147, 138â€“148. https://doi.org/10.1016/j.coastaleng.2019.01.008.
 %
 % [2] Luhar, M., Infantes, E., & Nepf, H. (2017). Seagrass vege motion
 % under waves and its impact on wave decay. J. Geophys. Res.: Oceans 122
-% (5), 3736–3752. https://doi.org/10.1002/2017JC012731
+% (5), 3736â€“3752. https://doi.org/10.1002/2017JC012731
 %
 % [3] Zhu, L. (2020). Wave Attenuation Capacity of Suspended Aquaculture
 % Structures with Sugar Kelp and Mussels. PhD Thesis. The University of
