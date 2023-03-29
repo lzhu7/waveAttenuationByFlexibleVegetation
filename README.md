@@ -13,6 +13,6 @@ Two EXAMPLES, exampleSubmergedVegetation.m and exampleSuspendedKelp.m, are given
 
 Recommended Citation:
 
-[1] Zhu, L., & Zou, Q. (2017). Three-layer analytical solution for wave attenuation by suspended and nonsuspended vegetation canopy. Coast. Eng. Proc. 1 (35), 27. https://doi.org/ 10.9753/icce.v35.waves.27.
+[1] Zhu, L., & Zou, Q. (2017). Three-layer analytical solution for wave attenuation by suspended and nonsuspended vegetation canopy. Coast. Eng. Proc. 1 (35), 27. https://doi.org/10.9753/icce.v35.waves.27.
 
 [2] Zhu, L., Huguenard, K., Fredriksson, D. W., & Lei, J. (2022). Wave attenuation by flexible vegetation (and suspended kelp) with blade motion: Analytical solutions. Advances in Water Resources, 162, 104148. https://doi.org/10.1016/j.advwatres.2022.104148
